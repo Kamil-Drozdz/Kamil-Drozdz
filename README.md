@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil Dróżdż</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60F763&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Kamil+Dr%C3%B3%C5%BCd%C5%BC;+A+passionate+frontend+developer+from+Poland)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-drozdz&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-drozdz" /> </p>
 
