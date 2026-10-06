@@ -1,9 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60F763&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Kamil+Dr%C3%B3%C5%BCd%C5%BC;+A+passionate+frontend+developer+from+Poland)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60F763&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Kamil+Dr%C3%B3%C5%BCd%C5%BC;+A+full-stack+TypeScript+developer+from+Poland)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-drozdz&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-drozdz" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-- 📫 How to reach me **contact@kamildrozdz.pl**
+- I’m currently working on [**StreamOn.top**](https://streamon.top) — donations, TTS alerts and OBS overlays for live creators.
+- I build web apps with **React, Next.js, TypeScript, TanStack Start and Convex**.
+- I’m currently learning **Go**.
+- More about my work: [**kamildrozdz.pl**](https://kamildrozdz.pl).
+- How to reach me **contact@kamildrozdz.pl**
+
+<h3 align="left">Selected work:</h3>
+
+- [**Nauczymy.net**](https://www.nauczymy.net/) — an online tutoring platform with lesson booking, student and tutor portals, and Google Calendar integration.
+- [**PointJay**](https://www.pointjay.com/) — a loyalty and reviews platform for businesses, with QR-based points and branded customer storefronts.
+- [**Spinacz.tech**](https://spinacz.tech) — an Astro landing page with a 3D mini-game and a live leaderboard powered by Convex.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +23,4 @@
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
  <a href="https://www.codewars.com/users/Kamil-Drozdz" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Kamil-Drozdz/badges/large" alt="codewars"/> </a> 
+
